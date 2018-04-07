@@ -1,7 +1,7 @@
 # Sitecore-TheadPool-Configurator
 Set ASP.NET application processModel thread limits
 
-[![Build status](https://ivansharamok.visualstudio.com/_apis/public/build/definitions/2ec1bc18-0293-4723-aa8d-fe71ef469a07/2/badge)](https://ivansharamok.visualstudio.com/SitecoreProjects/_build/index?definitionId=Sitecore-ThreadPool-Configurator-ASP.NET-CI)
+[![Build status](https://ivansharamok.visualstudio.com/_apis/public/build/definitions/2ec1bc18-0293-4723-aa8d-fe71ef469a07/2/badge)](https://ivansharamok.visualstudio.com/SitecoreProjects/_build/index?definitionId=2)
 [![Total downloads](https://img.shields.io/github/downloads/ivansharamok/Sitecore-TheadPool-Configurator/total.svg)](https://github.com/ivansharamok/Sitecore-TheadPool-Configurator/releases)
 
 
