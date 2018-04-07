@@ -1,0 +1,7 @@
+src/.vs/
+src/packages/
+src/Sitecore.ThreadPool.Configurator/bin/
+src/Sitecore.ThreadPool.Configurator/obj/
+*.pubxml
+*.user
+*.suo
