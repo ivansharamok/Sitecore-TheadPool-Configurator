@@ -1,6 +1,8 @@
 # Sitecore-TheadPool-Configurator
 Set ASP.NET application processModel thread limits
 
+[![Build status](https://ivansharamok.visualstudio.com/_apis/public/build/definitions/2ec1bc18-0293-4723-aa8d-fe71ef469a07/2/badge)]
+
 ## Problem
 Certain scenarios require to adjust ASP.NET application pool thread limits. This is typically done on `<processModel>` section in `machine.config` file. However, in certain environments (e.g. Azure WebApp) the `machine.config` may not be available for direct modification.
 >**Disclaimer**  
