@@ -11,3 +11,6 @@ Use API-based approach to configure ASP.NET application pool thread limits for S
 
 ## Additional resources
 [Contention, poor performance, and deadlocks when you make calls to Web services from an ASP.NET application](https://support.microsoft.com/en-in/help/821268/contention-poor-performance-and-deadlocks-when-you-make-calls-to-web-s)
+
+## Credits
+Kudos to [Nick Mitikov](https://github.com/mitikov) for the idea and sample code.
