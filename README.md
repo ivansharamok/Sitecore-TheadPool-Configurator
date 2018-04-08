@@ -18,9 +18,9 @@ This solution was developed and tested with Sitecore 8.2 version.
 In Sitecore 9 a new processor was introduced `/sitecore/pipelines/initialize/processor[@type="type='Sitecore.Analytics.Pipelines.Loader.StartThreadPoolSizeMonitor, Sitecore.Analytics'"]` to make application adjust its thread limits dynamically based on available threads.
 
 ## Additional resources
-[Tune Sitecore CD role for experience data collection](http://blog.sharamok.com/2018-04-07/prepare-cd-for-experience-data-collection/)
-[Contention, poor performance, and deadlocks when you make calls to Web services from an ASP.NET application](https://support.microsoft.com/en-in/help/821268/contention-poor-performance-and-deadlocks-when-you-make-calls-to-web-s)
-[ASP.NET 2.0 Performance Guidelines - Threading](http://www.guidanceshare.com/wiki/ASP.NET_2.0_Performance_Guidelines_-_Threading)
+* [Tune Sitecore CD role for experience data collection](http://blog.sharamok.com/2018-04-07/prepare-cd-for-experience-data-collection/)
+* [Contention, poor performance, and deadlocks when you make calls to Web services from an ASP.NET application](https://support.microsoft.com/en-in/help/821268/contention-poor-performance-and-deadlocks-when-you-make-calls-to-web-s)
+* [ASP.NET 2.0 Performance Guidelines - Threading](http://www.guidanceshare.com/wiki/ASP.NET_2.0_Performance_Guidelines_-_Threading)
 
 ## Credits
 Kudos to [Nick Mitikov](https://github.com/mitikov) for the idea and sample code.
